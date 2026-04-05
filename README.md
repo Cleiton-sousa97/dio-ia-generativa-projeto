@@ -77,7 +77,3 @@ Fontes abertas utilizadas no NotebookLM:
 1. Clone o repositório:  
    ```bash
    git clone https://github.com/Cleiton-sousa97/miniguia-ia-generativa-trabalho.git
-
-
-   ```bash
-   git clone https://github.com/seuusuario/miniguia-ia-generativa-trabalho.git
