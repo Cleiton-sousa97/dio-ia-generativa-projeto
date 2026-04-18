@@ -87,10 +87,10 @@ Navegue até a pasta do backend e execute:
 ```bash
 uvicorn app:app --reload
 ```
-O servidor estará disponível em: http://127.0.0.1:8000
+* O servidor estará disponível em: http://127.0.0.1:8000
 
 ### Iniciando o Frontend
-Basta abrir o arquivo index.html em seu navegador de preferência. Certifique-se de que o backend já está rodando para que as perguntas sejam respondidas.
+* Basta abrir o arquivo index.html em seu navegador de preferência. Certifique-se de que o backend já está rodando para que as perguntas sejam respondidas.
 
 ---
 
@@ -114,10 +114,10 @@ O projeto utiliza o modelo `Mistral-7B-Instruct-v0.2` com as seguintes otimizaç
 
 Como o agente está configurado com um *system prompt* de especialista em finanças, ele responderá melhor a questões como:
 
-* **Investimentos:** "Qual a diferença entre CDB e Tesouro Selic?"
-* **Tecnologia Financeira:** "O que é PIX e como usar com segurança?"
-* **Conceitos:** "O que é taxa Selic e por que influencia os juros?"
-* **Educação Financeira:** "Qual a diferença entre juros simples e compostos?"
+* **Investimentos:** `Qual a diferença entre CDB e Tesouro Selic?`
+* **Tecnologia Financeira:** `O que é PIX e como usar com segurança?`
+* **Conceitos:** `O que é taxa Selic e por que influencia os juros?`
+* **Educação Financeira:** `Qual a diferença entre juros simples e compostos?`
 
 
 ---
